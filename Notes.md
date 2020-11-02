@@ -1,4 +1,4 @@
-TO DO LIST APP
+TO DO LIST APP (Jot-It)
 
 User
    - has_many :lists
